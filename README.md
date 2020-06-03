@@ -16,4 +16,7 @@ Assuming that quantity involves `int` values, I will look through the remainings
 ### Extracting Product Name ###
 After extracting all of the above, it becomes much easier to just head over to Excel to copy and paste the remainings of the product name into the respective product name column. In fact, this last extraction does not require the use of Python.
 
+### Final Product ###
+<img src="https://github.com/joeljhanster/productnamecleaning/blob/master/cleaning.png" />
+
 NOTE: Due to confidentiality, I will not upload the excel sheet that requires cleaning.
