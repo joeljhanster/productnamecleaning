@@ -19,4 +19,4 @@ After extracting all of the above, it becomes much easier to just head over to E
 ### Final Product ###
 <img src="https://github.com/joeljhanster/productnamecleaning/blob/master/cleaning.png" />
 
-NOTE: Due to confidentiality, I will not upload the excel sheet that requires cleaning.
+NOTE: Due to confidentiality, I will not upload the excel sheet that required cleaning.
